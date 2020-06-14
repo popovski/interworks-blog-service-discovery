@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>mk.com.interworks.payment.service</groupId>
-	<artifactId>payment-service</artifactId>
+	<artifactId>payment-service-part1</artifactId>
 	<version>0.1</version>
-	<name>payment-service</name>
+	<name>payment-service-part1</name>
 	<description>Demo project for simple microservice app</description>
 
 	<properties>
